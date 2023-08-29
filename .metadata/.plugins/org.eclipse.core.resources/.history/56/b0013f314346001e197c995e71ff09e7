@@ -1,7 +1,0 @@
-package in.Kavana.customizedrequest;
-
-import javax.servlet.http.HttpServletRequestWrapper;
-
-public class CustomizedRequest extends HttpServletRequestWrapper {
-
-}
